@@ -1,0 +1,69 @@
+# ==============================
+# LangChain Core
+# ==============================
+langchain
+langchain-core
+langchain-openai
+langchain-community
+
+# ==============================
+# LangGraph / Agents
+# ==============================
+langgraph
+
+# ==============================
+# Tavily Search
+# ==============================
+langchain-tavily
+tavily-python
+
+# ==============================
+# Web Scraping
+# ==============================
+beautifulsoup4
+requests
+lxml
+
+# ==============================
+# OpenAI
+# ==============================
+openai
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Validation / Schemas
+# ==============================
+pydantic
+
+# ==============================
+# HTTP / Async Support
+# ==============================
+httpx
+aiohttp
+
+# ==============================
+# Development / Debugging
+# ==============================
+ipython
+
+
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+langchain-tavily
+tavily-python
+beautifulsoup4
+requests
+lxml
+openai
+python-dotenv
+pydantic
+httpx
+aiohttp
+ipython
