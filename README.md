@@ -163,7 +163,3 @@ You'll be prompted to enter a research topic.
 - **Context control:** snippets (300 chars), search text passed to the reader (800 chars) and scraped text (3,000 chars) are all truncated to keep prompts small and cheap.
 
 
-
-## 📄 License
-
-Add your license here (e.g. MIT).
